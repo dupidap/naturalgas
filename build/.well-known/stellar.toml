@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+"GAVQ7Z2ROQABTQKUI2SC2UVPRAE5BQZJEF63KSQZOVPU3765FMK2G535"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
 ORG_NAME="Cryptocurrency"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
+ORG_DESCRIPTION="Powered by the fuels that keep us moving, providing heating, cooling, industrial automation, manufacturing, electricity, and lubrication. Life depends on power. We’re dedicated to promoting more efficient processes and smarter technology when dealing with carbon resources while also ensuring clean, renewable, green energy is maximized when feasible."
 ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/X3zWgxL/tronchain.png"
+ORG_LOGO="https://i.ibb.co/3y3rQfG/fire.webp"
 ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
 
 
 [[CURRENCIES]]
-code="TronChain"
-issuer="GA2J2UIOORZFQ77NSBMEEWXLPW7OCC24MW2QIGIZJNVUAFWNLVOSHQCF"
+code="NATURALGAS"
+issuer="GAVQ7Z2ROQABTQKUI2SC2UVPRAE5BQZJEF63KSQZOVPU3765FMK2G535"
 anchor_asset="false"
-name="TronChain"
-desc="TRON is a Blockchain with a cryptocurrency native to the system, known as TRX. Justin Sun founded the cryptocurrency in 2017."
-image="https://i.ibb.co/X3zWgxL/tronchain.png"
-fixed_number=10000000
-max_number=10000000
+name="NATURALGAS"
+desc="Powered by the fuels that keep us moving, providing heating, cooling, industrial automation, manufacturing, electricity, and lubrication. Life depends on power. We’re dedicated to promoting more efficient processes and smarter technology when dealing with carbon resources while also ensuring clean, renewable, green energy is maximized when feasible."
+image="https://i.ibb.co/3y3rQfG/fire.webp"
+fixed_number=50000000000
+max_number=50000000000
 is_unlimited=false
-#TronChain was issued using the open and inclusive Stellar blockchain network.
+#NATURALGAS was issued using the open and inclusive Stellar blockchain network.
